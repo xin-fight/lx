@@ -28,7 +28,7 @@ def dell():
     return 0
 
 
-# 面下对象
+# 面向对象
 class MyPerceptron:
     def __init__(self):
         self.w = None
